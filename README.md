@@ -1,4 +1,4 @@
-<h1 align="center">🍎 API de Gestión de Frutas 🍌</h1>
+<h1 align="center">🍎 API de Gestión de Inventario Frutas 🍌</h1>
 
 <p align="center">
   <strong>Una API RESTful construida con Laravel 10 y MySQL para gestionar frutas y sus categorías.</strong>
